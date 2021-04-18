@@ -9,7 +9,7 @@ TypeMe.js is a super simple type writer effect using web components. Look at thi
 
 ## Installation
 
-⬆️ [Top](#typemejs) ➡️ [Guide](#guide) 
+⬆️ [Top](#typemejs) 
 
 ### Using a CDN
 
@@ -27,7 +27,7 @@ npm install typemejs --save
 
 ## Usage
 
-⬆️ [Top](#typemejs) ➡️ [API](#api)
+⬆️ [Top](#typemejs)
 
 Using this library is simple. Anywhere in your code call this HTML tag `<type-me></type-me>`. Don't forget to look at the [simple demo](https://marceauka.github.io/typeme.js/).
 
