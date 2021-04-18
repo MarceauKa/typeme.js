@@ -21,6 +21,8 @@ https://unpkg.com/typemejs/dist/typeme.min.js
 
 ### Import with yarn or npm
 
+[![NPM](https://nodei.co/npm/typemejs.png?mini=true)](https://npmjs.org/package/typemejs)
+
 ```
 npm install typemejs --save
 ```
