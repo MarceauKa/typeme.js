@@ -192,21 +192,6 @@ class TypeMe extends HTMLElement {
   connectedCallback () {
     this.initialize()
   }
-
-  /* @todo */
-  disconnectedCallback () {
-    // ...
-  }
-
-  /* @todo */
-  attributeChangedCallback (name, oldValue, newValue) {
-    // ...
-  }
-
-  /* @todo */
-  static get observedAttributes() {
-    return []
-  }
 }
 
 customElements.define('type-me', TypeMe)

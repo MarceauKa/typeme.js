@@ -10,7 +10,7 @@
   "jsdelivr": "dist/typeme.min.js",
   "author": "MarceauKa",
   "homepage": "https://marceauka.github.io/typeme.js/",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/main.js",
   "files": [
     "dist/*.js"
@@ -21,7 +21,7 @@
     "url": "git+https://github.com/MarceauKa/typeme.js.git"
   },
   "scripts": {
-    "build": "./node_modules/.bin/babel src --presets babel-preset-es2015 --out-file dist/typeme.min.js"
+    "build": "./node_modules/.bin/babel src --presets babel-preset-minify --out-file dist/typeme.min.js"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",

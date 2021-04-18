@@ -13,8 +13,8 @@ TypeMe.js is a super simple type writer effect using web components. Look at thi
 
 ### Using a CDN
 
-```
-https://unpkg.com/typemejs/dist/typeme.min.js
+```html
+<script src="https://unpkg.com/typemejs@latest/dist/typeme.min.js" async></script>
 ```
 
 ### Import with yarn or npm
