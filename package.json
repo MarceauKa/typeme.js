@@ -1,13 +1,13 @@
 {
-  "name": "typeme",
+  "name": "typemejs",
   "description": "Simple type writer effect using JS and web components",
   "keywords": [
     "typing",
     "typewritter",
     "webcomponents"
   ],
-  "unpkg": "dist/vue.js",
-  "jsdelivr": "dist/vue.js",
+  "unpkg": "dist/typeme.min.js",
+  "jsdelivr": "dist/typeme.min.js",
   "author": "MarceauKa",
   "homepage": "https://github.com/MarceauKa/typeme.js#readme",
   "version": "0.0.1",

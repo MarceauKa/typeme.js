@@ -16,13 +16,13 @@ TypeMe.js is a super simple type writer effect using web components. Look at thi
 Using a CDN
 
 ```
-https://unpkg.com/typeme/dist/typeme.min.js
+https://unpkg.com/typemejs/dist/typeme.min.js
 ```
 
 ### Import with yarn or npm
 
 ```
-npm install typeme --save
+npm install typemejs --save
 ```
 
 ## Usage
