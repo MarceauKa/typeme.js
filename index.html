@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>TypeMe.js</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://unpkg.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Montserrat, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div id="app" class="min-h-screen w-full bg-orange-400 bg-gradient-to-br from-purple-500 to-yellow-500 p-12">
+        <h1 class="text-6xl text-white font-bold">
+            TypeMe.js is
+            <type-me class="example" data-words="awesome, simple, fast, modern" data-duration="100" data-pause="1000" />
+        </h1>
+
+        <div id="links" class="flex space-x-4 my-12">
+            <a href="https://github.com/MarceauKa/typeme.js" title="Source on Github" class="block w-min bg-white hover:bg-yellow-200 border border-yellow-400 px-4 py-2 rounded-lg">Github</a>
+            <a href="https://github.com/MarceauKa/typeme.js#README.md" title="Read the documentation" class="block w-min bg-white hover:bg-yellow-200 border border-yellow-400 px-4 py-2 rounded-lg">Documentation</a>
+        </div>
+    </div>
+
+    <script src="src/TypeMe.js"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+{
+  "name": "typeme",
+  "description": "Simple type writer effect using JS and web components",
+  "keywords": [
+    "typing",
+    "typewritter",
+    "webcomponents"
+  ],
+  "unpkg": "dist/vue.js",
+  "jsdelivr": "dist/vue.js",
+  "author": "MarceauKa",
+  "homepage": "https://github.com/MarceauKa/typeme.js#readme",
+  "version": "0.0.1",
+  "main": "src/main.js",
+  "files": [
+    "dist/*.js"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceauKa/typeme.js.git"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --presets babel-preset-es2015 --out-file dist/typeme.min.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-minify": "^0.5.1"
+  }
+}
