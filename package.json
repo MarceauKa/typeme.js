@@ -9,7 +9,7 @@
   "unpkg": "dist/typeme.min.js",
   "jsdelivr": "dist/typeme.min.js",
   "author": "MarceauKa",
-  "homepage": "https://github.com/MarceauKa/typeme.js#readme",
+  "homepage": "https://marceauka.github.io/typeme.js/",
   "version": "0.0.1",
   "main": "src/main.js",
   "files": [
