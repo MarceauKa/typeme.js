@@ -2,8 +2,6 @@
 
 TypeMe.js is a super simple type writer effect using web components. Look at this [simple demo](https://marceauka.github.io/typeme.js/) to see it in action.
 
-⚠️ This library is usable in production but still in production
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Styling](#styling)
